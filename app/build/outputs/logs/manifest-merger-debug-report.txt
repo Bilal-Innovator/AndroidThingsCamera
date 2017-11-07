@@ -1,0 +1,114 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Workspace\IOT_Workspace\AndroidThingsCamera\app\src\main\AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from C:\Workspace\IOT_Workspace\AndroidThingsCamera\app\src\main\AndroidManifest.xml:4:5-44
+		INJECTED from C:\Workspace\IOT_Workspace\AndroidThingsCamera\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Workspace\IOT_Workspace\AndroidThingsCamera\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Workspace\IOT_Workspace\AndroidThingsCamera\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Workspace\IOT_Workspace\AndroidThingsCamera\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Workspace\IOT_Workspace\AndroidThingsCamera\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Workspace\IOT_Workspace\AndroidThingsCamera\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Workspace\IOT_Workspace\AndroidThingsCamera\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from C:\Workspace\IOT_Workspace\AndroidThingsCamera\app\src\main\AndroidManifest.xml:6:5-65
+	android:name
+		ADDED from C:\Workspace\IOT_Workspace\AndroidThingsCamera\app\src\main\AndroidManifest.xml:6:22-62
+uses-permission#android.permission.INTERNET
+ADDED from C:\Workspace\IOT_Workspace\AndroidThingsCamera\app\src\main\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from C:\Workspace\IOT_Workspace\AndroidThingsCamera\app\src\main\AndroidManifest.xml:7:22-64
+uses-permission#com.google.android.things.permission.MANAGE_INPUT_DRIVERS
+ADDED from C:\Workspace\IOT_Workspace\AndroidThingsCamera\app\src\main\AndroidManifest.xml:8:5-97
+	android:name
+		ADDED from C:\Workspace\IOT_Workspace\AndroidThingsCamera\app\src\main\AndroidManifest.xml:8:22-94
+application
+ADDED from C:\Workspace\IOT_Workspace\AndroidThingsCamera\app\src\main\AndroidManifest.xml:10:5-34:19
+MERGED from [com.google.android.things.contrib:driver-button:0.4] C:\Users\BLACK\.android\build-cache\0f63e39aa57207b73354e781d01c291141d7f067\output\AndroidManifest.xml:26:5-30:19
+MERGED from [com.bilal:android-things-camera:1.1.0] C:\Workspace\IOT_Workspace\AndroidThingsCamera\android-things-camera\build\intermediates\bundles\default\AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\BLACK\.android\build-cache\50a32574b798cef18a600192886ff59880e04068\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\BLACK\.android\build-cache\ac8c9222b485b52ce03fac4a5e974a2862fc2ece\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\BLACK\.android\build-cache\84637668cfadd8fb85990a081049ef94c4fc1220\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\BLACK\.android\build-cache\b673684906d9d15fff0e0150e2f33479c4d97a0c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\BLACK\.android\build-cache\c32db70d8ab11e1adf3193d8d79ff3c70c7d7883\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\BLACK\.android\build-cache\9b7c0e2a690aec81b7bff7162b37a26239b72653\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\BLACK\.android\build-cache\1bf0c3089810bf4ef59ee659b9e2603423577996\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\BLACK\.android\build-cache\c2695c5d4476ca0f054eb4e2818c87bf3ce7dd22\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\BLACK\.android\build-cache\d971c332055a8aa389ea5b4c717fd520d8f4f1ae\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Workspace\IOT_Workspace\AndroidThingsCamera\app\src\main\AndroidManifest.xml:13:9-41
+	android:supportsRtl
+		ADDED from [com.bilal:android-things-camera:1.1.0] C:\Workspace\IOT_Workspace\AndroidThingsCamera\android-things-camera\build\intermediates\bundles\default\AndroidManifest.xml:14:9-35
+	android:allowBackup
+		ADDED from C:\Workspace\IOT_Workspace\AndroidThingsCamera\app\src\main\AndroidManifest.xml:11:9-35
+	android:icon
+		ADDED from C:\Workspace\IOT_Workspace\AndroidThingsCamera\app\src\main\AndroidManifest.xml:12:9-43
+	android:theme
+		ADDED from C:\Workspace\IOT_Workspace\AndroidThingsCamera\app\src\main\AndroidManifest.xml:14:9-40
+uses-library#com.google.android.things
+ADDED from C:\Workspace\IOT_Workspace\AndroidThingsCamera\app\src\main\AndroidManifest.xml:16:9-65
+MERGED from [com.google.android.things.contrib:driver-button:0.4] C:\Users\BLACK\.android\build-cache\0f63e39aa57207b73354e781d01c291141d7f067\output\AndroidManifest.xml:27:9-29:40
+	android:name
+		ADDED from C:\Workspace\IOT_Workspace\AndroidThingsCamera\app\src\main\AndroidManifest.xml:16:23-63
+activity#com.bilal.androidthingscamera.MainActivity
+ADDED from C:\Workspace\IOT_Workspace\AndroidThingsCamera\app\src\main\AndroidManifest.xml:18:9-33:20
+	android:name
+		ADDED from C:\Workspace\IOT_Workspace\AndroidThingsCamera\app\src\main\AndroidManifest.xml:18:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Workspace\IOT_Workspace\AndroidThingsCamera\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from C:\Workspace\IOT_Workspace\AndroidThingsCamera\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from C:\Workspace\IOT_Workspace\AndroidThingsCamera\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Workspace\IOT_Workspace\AndroidThingsCamera\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from C:\Workspace\IOT_Workspace\AndroidThingsCamera\app\src\main\AndroidManifest.xml:22:27-74
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT+android.intent.category.IOT_LAUNCHER
+ADDED from C:\Workspace\IOT_Workspace\AndroidThingsCamera\app\src\main\AndroidManifest.xml:26:13-31:29
+category#android.intent.category.IOT_LAUNCHER
+ADDED from C:\Workspace\IOT_Workspace\AndroidThingsCamera\app\src\main\AndroidManifest.xml:29:17-81
+	android:name
+		ADDED from C:\Workspace\IOT_Workspace\AndroidThingsCamera\app\src\main\AndroidManifest.xml:29:27-78
+category#android.intent.category.DEFAULT
+ADDED from C:\Workspace\IOT_Workspace\AndroidThingsCamera\app\src\main\AndroidManifest.xml:30:17-76
+	android:name
+		ADDED from C:\Workspace\IOT_Workspace\AndroidThingsCamera\app\src\main\AndroidManifest.xml:30:27-73
+uses-sdk
+INJECTED from C:\Workspace\IOT_Workspace\AndroidThingsCamera\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.google.android.things.contrib:driver-button:0.4] C:\Users\BLACK\.android\build-cache\0f63e39aa57207b73354e781d01c291141d7f067\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.bilal:android-things-camera:1.1.0] C:\Workspace\IOT_Workspace\AndroidThingsCamera\android-things-camera\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\BLACK\.android\build-cache\50a32574b798cef18a600192886ff59880e04068\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\BLACK\.android\build-cache\ac8c9222b485b52ce03fac4a5e974a2862fc2ece\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\BLACK\.android\build-cache\84637668cfadd8fb85990a081049ef94c4fc1220\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\BLACK\.android\build-cache\b673684906d9d15fff0e0150e2f33479c4d97a0c\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\BLACK\.android\build-cache\c32db70d8ab11e1adf3193d8d79ff3c70c7d7883\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\BLACK\.android\build-cache\9b7c0e2a690aec81b7bff7162b37a26239b72653\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\BLACK\.android\build-cache\1bf0c3089810bf4ef59ee659b9e2603423577996\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\BLACK\.android\build-cache\c2695c5d4476ca0f054eb4e2818c87bf3ce7dd22\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\BLACK\.android\build-cache\d971c332055a8aa389ea5b4c717fd520d8f4f1ae\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\BLACK\.android\build-cache\50a32574b798cef18a600192886ff59880e04068\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Workspace\IOT_Workspace\AndroidThingsCamera\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Workspace\IOT_Workspace\AndroidThingsCamera\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Workspace\IOT_Workspace\AndroidThingsCamera\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Workspace\IOT_Workspace\AndroidThingsCamera\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\BLACK\.android\build-cache\50a32574b798cef18a600192886ff59880e04068\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\BLACK\.android\build-cache\ac8c9222b485b52ce03fac4a5e974a2862fc2ece\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\BLACK\.android\build-cache\84637668cfadd8fb85990a081049ef94c4fc1220\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\BLACK\.android\build-cache\b673684906d9d15fff0e0150e2f33479c4d97a0c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\BLACK\.android\build-cache\c32db70d8ab11e1adf3193d8d79ff3c70c7d7883\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\BLACK\.android\build-cache\9b7c0e2a690aec81b7bff7162b37a26239b72653\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\BLACK\.android\build-cache\1bf0c3089810bf4ef59ee659b9e2603423577996\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\BLACK\.android\build-cache\c2695c5d4476ca0f054eb4e2818c87bf3ce7dd22\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\BLACK\.android\build-cache\d971c332055a8aa389ea5b4c717fd520d8f4f1ae\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\BLACK\.android\build-cache\50a32574b798cef18a600192886ff59880e04068\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\BLACK\.android\build-cache\50a32574b798cef18a600192886ff59880e04068\output\AndroidManifest.xml:26:9-47

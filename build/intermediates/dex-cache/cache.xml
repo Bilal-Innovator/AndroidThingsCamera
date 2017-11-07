@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Workspace\IOT_Workspace\AndroidThingsCamera\android-things-camera\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f4e90e340fab8f1c35ca7702f56f34d7719f0176">
+        <dex dex="C:\Workspace\IOT_Workspace\AndroidThingsCamera\app\build\intermediates\pre-dexed\debug\classes_d5f8313dc316a5a2a7fb91123d68458b17de9e36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BLACK\.android\build-cache\0f63e39aa57207b73354e781d01c291141d7f067\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d899b9f73499afa5da1e3106b042587a56e53de4">
+        <dex dex="C:\Workspace\IOT_Workspace\AndroidThingsCamera\app\build\intermediates\pre-dexed\debug\classes_d1527d4a129475fe08f61649330e49d8a1e2e9f1.jar" />
+    </item>
+
+</items>

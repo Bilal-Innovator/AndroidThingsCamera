@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Workspace\\Main_Workspace\\AndroidThingsCamera\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi\\ic_launcher_round.png",
+        "source": "C:\\Workspace\\Main_Workspace\\AndroidThingsCamera\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Workspace\\Main_Workspace\\AndroidThingsCamera\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "C:\\Workspace\\Main_Workspace\\AndroidThingsCamera\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    }
+]

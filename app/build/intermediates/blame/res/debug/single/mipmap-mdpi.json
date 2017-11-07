@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Workspace\\IOT_Workspace\\AndroidThingsCamera\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "C:\\Workspace\\IOT_Workspace\\AndroidThingsCamera\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Workspace\\Main_Workspace\\AndroidThingsCamera\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "C:\\Workspace\\Main_Workspace\\AndroidThingsCamera\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Workspace\\IOT_Workspace\\AndroidThingsCamera\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher_round.png",
+        "source": "C:\\Workspace\\IOT_Workspace\\AndroidThingsCamera\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Workspace\\Main_Workspace\\AndroidThingsCamera\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher_round.png",
+        "source": "C:\\Workspace\\Main_Workspace\\AndroidThingsCamera\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    }
+]

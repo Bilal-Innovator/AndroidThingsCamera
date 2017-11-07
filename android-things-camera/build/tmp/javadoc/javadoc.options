@@ -1,0 +1,6 @@
+-classpath 'C:\\Development_World\\Android\\sdk\\platforms\\android-25\\android.jar'
+-d 'C:\\Workspace\\Main_Workspace\\AndroidThingsCamera\\android-things-camera\\build\\docs\\javadoc'
+-doctitle 'android-things-camera 1.1.0 API'
+-quiet 
+-windowtitle 'android-things-camera 1.1.0 API'
+'C:\\Workspace\\Main_Workspace\\AndroidThingsCamera\\android-things-camera\\src\\main\\java\\com\\bilal\\androidthingscameralib\\InitializeCamera.java'

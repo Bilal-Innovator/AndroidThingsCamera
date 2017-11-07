@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Workspace\\IOT_Workspace\\AndroidThingsCamera\\android-things-camera\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\BLACK\\.android\\build-cache\\50a32574b798cef18a600192886ff59880e04068\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Workspace\\IOT_Workspace\\AndroidThingsCamera\\android-things-camera\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\BLACK\\.android\\build-cache\\50a32574b798cef18a600192886ff59880e04068\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Workspace\\IOT_Workspace\\AndroidThingsCamera\\android-things-camera\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\BLACK\\.android\\build-cache\\50a32574b798cef18a600192886ff59880e04068\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Workspace\\IOT_Workspace\\AndroidThingsCamera\\android-things-camera\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\BLACK\\.android\\build-cache\\50a32574b798cef18a600192886ff59880e04068\\output\\res\\layout-v21\\notification_action.xml"
+    }
+]
