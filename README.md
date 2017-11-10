@@ -15,6 +15,12 @@ dependencies {
 }
 ```
 ## Getting Started with your own App
+
+- Declare camera permission in Manifest:
+```
+<uses-permission android:name="android.permission.CAMERA" />
+```
+
 - Create instance of camera library class:
 ```
 private InitializeCamera mInitializeCamera;
@@ -22,11 +28,10 @@ private InitializeCamera mInitializeCamera;
 
 - Initialize camera library with specified fields :
 ```
-
 //Recommended configurations IMAGE_WIDTH = 640px, IMAGE_HEIGHT = 480px, MAX_IMAGES = 1;
 //initializeCamera(Current Context, Reference Of OnPictureAvailableListener, IMAGE_WIDTH, IMAGE_HEIGHT, MAX_IMAGES)
 
-mInitializeCamera.initializeCamera(this, this, 640, 480, 1);
+mInitializeCamera = new InitializeCamera(this, this, 640, 480, 1);
 ```
 
 - Simply capture the image by calling **captureImage()**;
